@@ -1,0 +1,3 @@
+processes:
+  web:
+    restart_mode: usr2
